@@ -1,4 +1,3 @@
-# Send-An-Email-With-Celery
 
 # Celery + Redis + Email — Complete Reference Notes
 
